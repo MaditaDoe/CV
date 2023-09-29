@@ -1,0 +1,399 @@
+new Question ("strewth!", ["good grief!", "no way!", "absolutely!", "get lost!"], "good grief!"),
+
+1 - strewth!
+a) good grief!
+b) no way!
+c) absolutely!
+d) get lost!
+
+new Question ("tinny", ["a small boat", "an outdoor toilet", "a camping kettle", "an oil-drum firepit"], "a small boat"),
+
+2 - tinny
+a) a small boat
+b) an outdoor toilet
+c) a camping kettle
+d) an oil-drum firepit
+
+new Question ("smoko", ["a break from work for smoking", "a tabacconist", "a pouch of rolling tabacco", "someone who smokes"], "a break from work for smoking"),
+
+3 - smoko
+a) a break from work for smoking
+b) a tobacconist
+c) a pouch of rolling tobacco
+d) someone who smokes
+
+new Question ("doco", ["a documentary", "a boat harbour", "a doctor", "a tax form"], "a documentary"),
+
+4 - doco
+a) a documentary
+b) a boat harbour
+c) a doctor
+d) a tax form
+
+new Question ("ranga", ["a person with red hair", "a poor person", "an unclean person", "someone with no manners"], "a person with red hair"),
+
+5 - ranga
+a) a person with red hair
+b) a poor person
+c) an unclean person
+d) someone with no manners
+
+new Question ("sheep-shagger", ["a person from New Zealand", "someone who shears sheep", "someone who lives on a farm", "a rural veterinary"], "a person from New Zealand"),
+
+6 - sheep-shagger
+a) a person from new zealand
+b) someone who shears sheep
+c) someone who lives on a farm
+d) a rural veterinary
+
+new Question ("used to refer to someone whose name isn't known", ["old mate", "old man", "young mate", "old fellow"], "old mate"),
+
+7 - used to refer to someone whose name isn't known
+a) old mate
+b) old man
+c) young mate
+d) old fellow
+
+new Question ("a rolled-up canvas sleeping bag", ["swag", "camp-bag", "canvas", "roller"], "swag"),
+
+8 - a rolled-up canvas sleeping bag
+a) swag
+b) camp-bag
+c) canvas
+d) roller
+
+new Question ("a tin used to boil water while camping", ["billy", "tucker", "tinny", "canner"], "billy"),
+
+9 - a tin used to boil water while camping
+a) billy
+b) tucker
+c) tinny
+d) canner
+
+new Question ("tucker", ["food", "a sleeping bag", "a cigarette", "beer"], "food"),
+
+10 - tucker
+a) food
+b) a sleeping bag
+c) a cigarette
+d) beer
+
+new Question ("jumbuck", ["a sheep", "a hitch hiker", "a kangaroo", "a farmer"], "a sheep"),
+
+11 - jumbuck
+a) a sheep
+b) a hitch hiker
+c) a kangaroo
+d) a farmer
+
+new Question ("loose unit", ["a daredevil", "a cheap rental house", "a promiscuous woman", "a gambler"], "a daredevil"),
+
+12 - loose unit
+a) a daredevil
+b) a cheap rental house
+c) a promiscuous woman
+d) a gambler
+
+new Question ("a fire figther", ["firey", "fi-fo", "smoko", "hosie"], "firey"),
+
+13 - a fire fighter
+a) firey
+b) fi-fo
+c) smoko
+d) hosie
+
+new Question ("someone who skips school", ["wagger", "skipper", "bludger", "slogger"], "wagger"),
+
+14 - someone who skips school
+a) wagger
+b) skipper
+c) bludger
+d) slogger
+
+new Question ("pash", ["a french kiss", "a passion fruit", "a thin scarf", "a massage"], "a french kiss"),
+
+15 - pash
+a) a french kiss
+b) a passion fruit
+c) a thin scarf
+d) a massage
+
+new Question ("unkempt/no hoper", ["derro", "devo", "demo", "dekko"], "derro"),
+
+16 - unkempt/no hoper
+a) derro
+b) devo
+c) demo
+d) dekko
+
+new Question ("to be feeling unwell", ["crook", "crunk", "crack", "crock"], "crook"),
+
+17 - to be feeling unwell
+a) crook
+b) crunk
+c) crack
+d) crock
+
+new Question ("unsophisticated person", ["bogan", "lad", "wanker", "hillbilly"], "bogan"),
+
+18 - unsophisticated person
+a) bogan
+b) lad
+c) wanker
+d) hillbilly
+
+new Question ("to take a day off work", ["chuck a sickey", "throw a wag", "toss a day", "kick a monday"], "chuck a sickey"),
+
+19 - to take a day off work
+a) chuck a sickey
+b) throw a wag
+c) toss a day
+d) kick a monday
+
+new Question ("piece of piss", ["easy", "unreliable", "weak", "unpleasant"], "easy"),
+
+20 - piece of piss
+a) easy
+b) unreliable
+c) weak
+d) unpleasant
+
+new Question ("chuck a u'ey", ["perform a 180 degree turn", "speed away from police", "drift around a corner", "parallel park"], "perform a 180 degree turn"),
+
+21 - chuck a u'ey
+a) perform a 180 degree turn
+b) speed away from police
+c) drift around a corner
+d) parallel park
+
+new Question ("bludger", ["lazy person", "unsavoury person", "sly person", "drunkard"], "lazy person"),
+
+22 - bludger
+a) lazy person
+b) unsavoury person
+c) sly person
+d) drunkard
+
+new Question ("cark it", ["to die", "to fart", "to get angry", "to cry"], "to die"),
+
+23 - cark it
+a) to die
+b) to fart
+c) to get angry
+d) to cry
+
+new Question ("bloody oath", ["absolutely", "a promise", "not at all", "unbelievable"], "absolutely"),
+
+24 - bloody oath
+a) absolutely
+b) a promise
+c) not at all
+d) unbelievable
+
+new Question ("sparrow's fart", ["very early morning", "very late evening", "midday", "midnight"], "very early morning"),
+
+25 - sparrow's fart
+a) very early morning
+b) very late evening
+c) midday
+d) midnight
+
+new Question ("chockas", ["very full", "awesome", "large", "very expensive"], "very full"),
+
+26 - chockas
+a) very full
+b) awesome
+c) large
+d) very expensive
+
+new Question ("dead set", ["true", "ready", "awful", "interesting"], "true"),
+
+27 - dead set
+a) true
+b) ready
+c) awful
+d) interesting
+
+new Question ("dingo's breakfast", ["no breakfast", "big breakfast", "quick breakfast", "a baby"], "no breakfast"),
+
+28 - dingo's breakfast
+a) no breakfast
+b) big breakfast
+c) quick breakfast
+d) a baby
+
+new Question ("fair dinkum", ["genuine", "fair", "Australian", "impressive"], "genuine"),
+
+29 - fair dinkum
+a) genuine
+b) fair
+c) Australian
+d) impressive
+
+new Question ("ridgey-didge", ["genuine", "didgeridoo", "incredible", "kangaroo"], "genuine"),
+
+30 - ridgy-didge
+a) genuine
+b) didgeridoo
+c) incredible
+d) kangaroo
+
+new Question ("stoked", ["very pleased", "very upsed", "very angry", "very in love"], "very pleased"),
+
+31 - stoked
+a) very pleased
+b) very upset
+c) very angry
+d) very in love
+
+new Question ("a reckless driver", ["hoon", "goon", "loon", "boon"], "hoon"),
+
+32 - a reckless driver
+a) hoon
+b) goon
+c) loon
+d) boon
+
+new Question ("a bit how ya going", ["not quite right", "friendly", "unbelievable", "a stressful situation"], "not quite right"),
+
+33 - "a bit how ya going"
+a) not quite right
+b) friendly
+c) unbelievable
+d) a stressful situation
+
+new Question ("dog's breakfast", ["a mess", "something huge", "unintelligent", "a bad smell"], "a mess"),
+
+34 - dog's breakfast
+a) a mess
+b) something huge
+c) unintelligent
+d) a bad smell
+
+new Question ("drongo", ["a silly person", "a mean person", "a poor person", "an exhausted person"], "a silly person"),
+
+35 - drongo
+a) a silly person
+b) a mean person
+c) a poor person
+d) an exhausted person
+
+new Question ("whoop-whoop", ["middle of nowhere", "a wild party", "strong alcohol", "an ambulance"], "middle of nowhere"),
+
+36 - whoop-whoop
+a) middle of nowhere
+b) a wild party
+c) strong alcohol
+d) an ambulance
+
+new Question ("piss", ["beer", "wine", "vodka", "rum"], "beer"),
+
+37 - piss
+a) beer
+b) wine
+c) vodka
+d) rum
+
+new Question ("a beer bought to drink in the car", ["roadie", "quickie", "driver", "traveller"], "roadie"),
+
+38 - a beer bought to drink in the car
+a) roadie
+b) quickie
+c) driver
+d) traveller
+
+new Question ("op shop", ["thrift store", "hospital", "barbers", "mechanic"], "thrift store"),
+
+39 - op shop
+a) thrift store
+b) hospital
+c) barbers
+d) mechanic
+
+new Question ("a paramedic/ambulance crew member", ["ambo", "parrie", "ambie", "medo"], "ambo"),
+
+40 - a paramedic/ambulance crew member
+a) ambo
+b) parrie
+c) ambie
+d) medo
+
+new Question ("chook", ["a chicken", "to have a quick look", "to throw something with force", "to be ill"], "a chicken"),
+
+41 - chook
+a) a chicken
+b) to have a quick look
+c) to throw something with force
+d) to be ill
+
+new Question ("a wild Australian horse", ["brumby", "skipper", "jumbuck", "boomer"], "brumby"),
+
+42 - a wild Australian horse
+a) brumby
+b) skipper
+c) jumbuck
+d) boomer
+
+new Question ("buck's night", ["a bachelor party", "an awful night", "a one night stand", "not getting much sleep"], "a bachelor party"),
+
+43 - buck's night
+a) a bachelor party
+b) an awful night
+c) a one night stand
+d) not getting much sleep
+
+new Question ("to be broken or useless", ["bung", "bang", "bing", "bong"], "bung"),
+
+44 - to be broken or useless
+a) bung
+b) bang
+c) bing
+d) bong
+
+new Question ("to fawn over children or act motherly", ["clucky", "babying", "mumming", "cocky"], "clucky"),
+
+45 - to fawn over children or act motherly
+a) clucky
+b) babying
+c) mumming
+d) cocky
+
+new Question ("to go quickly or surrepitiously", ["nick off", "whack on", "run loose", "whip up"], "nick off"),
+
+46 - to go quickly or surreptitiously
+a) nick off
+b) whack on
+c) run loose
+d) whip up
+
+new Question ("alcohol shop", ["bottle-o", "alco", "wino", "drop shop"], "bottle-o"),
+
+47 - alcohol shop
+a) bottle-o
+b) alco
+c) wino
+d) drop shop
+
+new Question ("a sandwich", ["sanga", "banger", "doughie", "monga"], "sanga"),
+
+48 - a sandwich
+a) sanga
+b) banger
+c) doughie
+d) monga
+
+new Question ("rack off!", ["get lost!", "stop talking!", "you don't say?", "good grief!"], "get lost!"),
+
+49 - "rack off!"
+a) get lost!
+b) stop talking!
+c) you don't say?
+d) good grief!
+
+new Question ("she'll be apples", ["everything will be okay", "someone will be angry", "things will get worse", "nothing will happen"], "everything will be okay"),
+
+50 - she'll be apples
+a) everything will be okay
+b) someone will be angry
+c) things will get worse
+d) nothing will happen

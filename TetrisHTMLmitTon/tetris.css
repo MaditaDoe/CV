@@ -1,0 +1,30 @@
+
+
+body {
+    background: url("hintergrund.png");
+    background-color: #e7e7e8;
+}
+
+.text {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 16px;
+    position: relative;
+    left: 10px;
+    text-align: center;
+    top: 100px;
+
+}
+
+#neustart {
+    font-size: 12px;
+}
+
+#button {
+    font-family: 'Impact', sans-serif;
+    font-size:14px;
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 5px 5px;
+    cursor: pointer;
+}

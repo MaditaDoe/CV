@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+            <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+
+    <meta charset="utf-8">
+    <title> Tetris Mania </title>
+        <link rel="stylesheet" href="tetris.css">
+
+</head>
+
+<body>
+    <div style="margin: 0 auto; text-align: center;">
+        <div style="width:340px; display: inline-block;">
+            <canvas style="margin-left:275" id="spielfeld" width="340" height="620"> </canvas>
+        </div>
+        <div style="width: 200px; display: inline-block; vertical-align: top;">
+            <span class="text">Points:</span>
+            <span id="points" class="text"></span>
+            <p id="neustart" class="text">Zum Neustarten "R" drücken, Pfeiltasten für Steuerung</p>
+            <button class="text" id="button" type="button">Pause Audio</button>
+        </div>
+    </div>
+    
+    <audio id="audio" autoplay width="0" height="0" loop >
+        <source src="tetris.mp3" type="audio/mp3" />
+    </audio>
+    
+    <audio id="go" width="0" height="0">
+        <source src="gameover.mp3" type="audio/mp3" />
+    </audio>
+
+    <script src="TetrisNeu.js"></script>
+</body>
+
+</html>

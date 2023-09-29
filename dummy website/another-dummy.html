@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Another Dummy Website</title>
+
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    
+    <header>
+    </header>
+    <div id="overlay"> <div id="text">I'm still under construction. <br> Please try again later.</div></div> 
+    <div id="content">
+        <div class="location">
+            <h1>Hello, <br> Zuerich</h1>
+            <p>This is still a dummy website.</p>
+        </div>
+    <div class="slideshow-menu">
+        <div id="informative">
+            <p>Zurich is a city in Switzerland. It lays at the foot of the alps and is hugging the Zurich lake. This is still a dummy site though.</p>
+        </div>
+        <div class="boxes">
+            <div class="box one">
+                <span class="text">Layer1</span>
+            </div>
+            <div class="box two">
+                <span class="text">Layer2</span>
+            </div>
+            <div class="box three">
+                <span class="text">Layer3</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script
+			  src="https://code.jquery.com/jquery-3.6.3.js"
+			  integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="
+			  crossorigin="anonymous">
+    $('.box .one').click(function() {
+  $(this).toggleClass('full');
+  $('.two').toggleClass('hide');
+  $('.three').toggleClass('hide');
+  $('.four').toggleClass('hide');
+})
+</script>
+</body>
+</html>
