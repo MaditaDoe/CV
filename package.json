@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "CV Website",
   "main": "index.html",
-  "scripts": {},
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
