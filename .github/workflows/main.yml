@@ -47,4 +47,4 @@ jobs:
           server: cv.maditadoenni.de
           username: doenni
           password: ${{ secrets.ftp_password }}
-          publish_dir: ./dist
+          local_dir: ./dist
